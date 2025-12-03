@@ -16,7 +16,7 @@
       "diplomacy": 1,
       "loyal": 4,
       "expansion": 1,
-"uniques":["Will not build [Faith]", "Will not build [Hospital]", "Will not build [Settler]"],
+// "uniques":["Will not build [Faith]", "Will not build [Hospital]", "Will not build [Settler]"],
 "priorities": {
     "Freedom": 500,
     "Liberty": 100,
