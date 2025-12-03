@@ -4,7 +4,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Rapture",
     "replaces": "Great General",
-    "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+33]% Strength bonus for [ADAM Enhanced] units within [2] tiles", "Can hurry technology research", "May withdraw before melee ([20]%)", "All adjacent units heal [+25] HP when healing", "Transfer Movement to [Big Daddy]", "Great Person - [War]", "Unbuildable"],
+    "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+33]% Strength bonus for [ADAM Enhanced] units within [2] tiles", "Can hurry technology research", "Withdraws before melee combat <with [20]% chance>", "All adjacent units heal [+25] HP when healing", "Transfer Movement to [Big Daddy]", "Great Person - [War]", "Unbuildable"],
     "movement": 2,
 	  "civilopediaText": [
 			{"text": "You are a terrible person."},
@@ -22,7 +22,7 @@
   "upgradesTo": "Big Daddy MK2",
   "promotions": ["Amphibious", "Sundering"],
                 "requiredTech": "Iron Working",
-                "uniques": ["May create improvements on water resources", "[+40]% Strength when stacked with [Little Sister]", "Unable to capture cities", "No damage penalty for wounded units", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
+                "uniques": ["May create improvements on water resources", "[+40]% Strength <when stacked with a [Little Sister] unit>", "Unable to capture cities", "No damage penalty for wounded units", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
                 "attackSound": "drill"
         },
         {
@@ -37,7 +37,7 @@
   "promotions": ["Amphibious", "Sundering"],
                 "requiredTech": "Gunpowder",
                 "upgradesTo": "Big Daddy MK3",
-                "uniques": ["May create improvements on water resources", "[+40]% Strength when stacked with [Little Sister]", "Unable to capture cities", "No damage penalty for wounded units", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
+                "uniques": ["May create improvements on water resources", "[+40]% Strength <when stacked with a [Little Sister] unit>", "Unable to capture cities", "No damage penalty for wounded units", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
                 "attackSound": "drill"
         },
 	{
@@ -51,7 +51,7 @@
 		"cost": 575,
   "promotions": ["Amphibious", "Sundering"],
 		"requiredTech": "Plastics",
-		"uniques": ["May create improvements on water resources", "[+40]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
+		"uniques": ["May create improvements on water resources", "[+40]% Strength <when stacked with a [Little Sister] unit>", "Unable to capture cities", "No damage penalty for wounded units", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking", "[+1] Movement <when [Wounded]>", "Adam Enhanced"],
 		"attackSound": "drill"
 	},
 {
@@ -65,7 +65,7 @@
   "range": 1,
 		"cost": 235,
 		"requiredTech": "Engineering",
-		"uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Can see over obstacles", "Ignores Zone of Control", "May withdraw before melee ([85]%)","No defensive terrain bonus", "[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Armored] units>", "[-25]% Strength <vs [Ranged] units> <when defending>", "Transfer Movement to [Civilian]", "[-90]% Strength <vs [Air] units>", "[+1] Sight", "[-10] HP when healing", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "Normal vision when embarked"],
+		"uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Can see over obstacles", "Ignores Zone of Control", "Withdraws before melee combat <with [85]% chance>","No defensive terrain bonus", "[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Armored] units>", "[-25]% Strength <vs [Ranged] units> <when defending>", "Transfer Movement to [Civilian]", "[-90]% Strength <vs [Air] units>", "[+1] Sight", "[-10] HP when healing", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "[+1] Sight <for [Embarked] units>", "[+1] Sight <when [Embarked]>"],
 		"hurryCostModifier": 35,
 		"attackSound": "bomber",
 		"civilopediaText": [

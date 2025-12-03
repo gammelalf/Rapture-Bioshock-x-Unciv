@@ -96,7 +96,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+50 Culture] whenever a Great Person is expended", "[+1 Happiness] [in this city]"]
+		"uniques": ["Gain [50] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>", "[+1 Happiness] [in this city]"]
 	},
 {
 		"name": "'The Great Chain' - Andrew Cohen",
@@ -107,8 +107,8 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 50,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured", "[+1 Culture] per every [600] [Gold] <when between [0] and [10] Happiness>", "[+1 Culture] per every [400] [Gold] <when between [11] and [20] Happiness>", "[+1 Culture] per every [200] [Gold] <when between [21] and [30] Happiness>", "[+1 Culture] per every [100] [Gold] <when between [31] and [40] Happiness>", "[+1 Culture] per every [50] [Gold] <when between [41] and [55] Happiness>", "[+1 Culture] per every [25] [Gold] <when between [56] and [65] Happiness>",
-"[+1 Culture] per every [15] [Gold] <when between [66] and [72] Happiness>", "[+1 Culture] per every [10] [Gold] <when above [73] Happiness>"]
+		"uniques": ["[+1 Culture] from all [Gold] buildings <when above [15] [Happiness]>", "Destroyed when the city is captured", "[+1 Culture] per every [600] [Gold] <when between [0] and [10] [Happiness]>", "[+1 Culture] per every [400] [Gold] <when between [11] and [20] [Happiness]>", "[+1 Culture] per every [200] [Gold] <when between [21] and [30] [Happiness]>", "[+1 Culture] per every [100] [Gold] <when between [31] and [40] [Happiness]>", "[+1 Culture] per every [50] [Gold] <when between [41] and [55] [Happiness]>", "[+1 Culture] per every [25] [Gold] <when between [56] and [65] [Happiness]>",
+"[+1 Culture] per every [15] [Gold] <when between [66] and [72] [Happiness]>", "[+1 Culture] per every [10] [Gold] <when above [73] [Happiness]>"]
 	},
 {
 		"name": "Plasmid - Insect Swarm",
